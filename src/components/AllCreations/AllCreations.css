@@ -21,9 +21,18 @@
 } */
 
 .creations-images-all-creations:hover {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(https://res.cloudinary.com/dzkbycvev/image/upload/v1670182659/creation-details_ut1o7q.png)
+    no-repeat; /* this image will be shown over the image iSRC */
+  width: 180px;
+  height: 236px;
+  padding-left: 180px;
+  /*content: url("https://res.cloudinary.com/dzkbycvev/image/upload/v1670182659/creation-details_ut1o7q.png");
   filter: saturate(0);
-  /* display: block;
-  color: red; */
+   display: block;
+  color: red;*/
 }
 
 .all-creations-home-page {
@@ -49,3 +58,49 @@
   padding-left: 1rem;
   margin-bottom: 2rem;
 }
+
+/*.creations-images-all-creations-container {
+  position: relative;
+  padding: 0;
+  width: 20rem;
+  display: block;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.creations-images-all-creations-focus-container {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(200, 200, 200, 0.5);
+  width: 2rem;
+  height: 2rem;
+  -webkit-transition: all 400ms ease-out;
+  -moz-transition: all 400ms ease-out;
+  -o-transition: all 400ms ease-out;
+  -ms-transition: all 400ms ease-out;
+  transition: all 400ms ease-out;
+}
+
+.creations-images-all-creations-container
+  .creations-images-all-creations-focus-container:hover {
+  opacity: 1;
+}
+
+.creations-images-all-creations-container
+  .creations-images-all-creations-focus-container
+  .creations-images-all-creations-focus-image {
+  height: 0;
+  opacity: 1;
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+}
+
+.creations-images-all-creations-container
+  .creations-images-all-creations-focus-container:hover
+  .creations-images-all-creations-focus-image {
+  opacity: 1;
+  transform: translateY(250px);
+  -webkit-transform: translateY(250px);
+}*/
