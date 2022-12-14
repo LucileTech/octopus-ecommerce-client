@@ -33,4 +33,6 @@ VITE_BACKEND_URL=?
 
 ## [Link to OCTOPUS E Commerce](https://octopus-ecommerce.netlify.app/)
 
+Suggested basic account : achab@gmail.com - MDP : achabachab
+Suggested artist account : artist@artist.com - MDP : artistartist
 ![My Remote Image](https://res.cloudinary.com/dzkbycvev/image/upload/v1670516711/preview-octopus_z5xrwt.png)
