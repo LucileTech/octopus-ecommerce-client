@@ -6,7 +6,7 @@ Fullstack application (React / Express / Mongodb)
 
 # Made by Lucile Tronczyk & Amélie Chabrand
 
-
+ <img src="https://res.cloudinary.com/dsioshcio/image/upload/v1677540438/Screenshot_2023-02-27_at_15.26.04_ecyinf.png" width="30px"/>
 ![My Remote Image](https://res.cloudinary.com/dsioshcio/image/upload/v1677540438/Screenshot_2023-02-27_at_15.26.04_ecyinf.png)
 ![My Remote Image](https://res.cloudinary.com/dsioshcio/image/upload/v1677540446/Screenshot_2023-02-27_at_15.25.02_jwssfc.png)
 
